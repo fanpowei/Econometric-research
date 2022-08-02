@@ -7,5 +7,5 @@ This is a causal analysis aims to answer if an increase in economic development 
 ## Data
 Data is collected from the National Historical Geographic Information System (NHGIS), and US Census Bureau. They are time-series state-level data in four time periods: 2000, 2010, 2015, and 2019.
 
-## Analytics Tool
+## Analytics Tools
 R studio, Stata, fixed-effect panel data regression, robust standard errors
